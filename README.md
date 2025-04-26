@@ -1,6 +1,10 @@
 # Welcome to My GitHub Profile!
 
-Hi there! I’m Oumar Sekisinde, a graduate student pursuing my **Master's in Information Technology** at **Southern States University (SSU)**. With a commitment to learning and innovation, I’m exploring **data analytics**, **cloud computing**, and **network security** to address real-world challenges. At SSU, represented by its distinct shield logo, I have the privilege of immersing myself in cutting-edge technologies while building a strong foundation for professional growth.
+Hi there! I’m Oumar Sekisinde, a graduate student pursuing my **Master's in Information Technology** at **Southern States University (SSU)**.<img width="129" alt="ssu logo" src="https://github.com/user-attachments/assets/ab48f99d-6c06-41db-a838-3f850337530e" />
+
+
+With a commitment to learning and innovation, I’m exploring **data analytics**, **cloud computing**, and **network security** to address real-world challenges. 
+I have the privilege of immersing myself in cutting-edge technologies while building a strong foundation for professional growth.
 
 GitHub is an essential tool in my journey. It allows me to collaborate on projects, showcase my technical skills, and maintain version control in my work. Whether I’m  designing efficient **network topologies**, or experimenting with **cloud computing** platforms, GitHub serves as the backbone of my development process. By integrating GitHub with cloud services such as AWS, I can explore scalable and secure solutions, enriching both my academic research and practical applications.
 
